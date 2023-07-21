@@ -187,6 +187,7 @@ body {
 
 .first-table-title {
   width: 255px;
+  min-width: 255px;
 }
 
 .table-description {
@@ -341,7 +342,7 @@ body {
 	}
 
 	.footer {
-		padding: 10px 20px 130px;
+		padding: 10px 20px 10px;
 	}
 
   .fixed__button {
