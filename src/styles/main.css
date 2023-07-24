@@ -389,6 +389,11 @@ body {
 		height: 67px;
 	}
 
+  .first-table-title {
+    min-width: 220px;
+    width: 220px;
+  }
+
   .main {
     margin-left: 16px;
     margin-right: 16px;
